@@ -1,0 +1,32 @@
+
+
+.grid-container-2{
+    border: 2px solid  rgb(30, 30, 74);;
+    border-radius:15px;
+    background-color:rgb(248, 251, 252);
+}
+
+.grid-item {
+    height: 10vh;
+    width: 10vw;
+    padding-top: 0.5vw;
+    padding-left: 0.5vw;
+    font-size: 1.5vw;
+    
+
+}
+.grid-container-2:hover{
+    transform: scale(1.05);
+  
+    transition: transform 2s;
+}
+
+.color-p {
+    margin: 0;
+    text-align: center;
+}
+h5{
+    margin: 0;
+    text-align: center;
+}
+
